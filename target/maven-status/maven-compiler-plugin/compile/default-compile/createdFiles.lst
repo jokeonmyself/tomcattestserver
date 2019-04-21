@@ -1,0 +1,7 @@
+web/getBankAutomats.class
+service/BankAutomatService.class
+util/JsonConverter.class
+service/BankAutomatServiceImpl.class
+model/BankAutomat.class
+dao/BankAutomatDaoImpl.class
+dao/BankAutomatDao.class
